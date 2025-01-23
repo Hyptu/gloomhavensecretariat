@@ -1,4 +1,106 @@
 {
+  "items": {
+    "fh-1": {
+      "1": "Erhalte bei deiner Angriffsfertigkeit Vorteil für einen Angriff.",
+      ".": "Fernrohr"
+    },
+    "fh-2": {
+      "1": "Wenn du angegriffen wirst, gilt jeder gezogene %game.attackmodifier.double% Angriffsmodifikator des Gegners stattdessen als %game.attackmodifier.plus1%.",
+      ".": "Grober Helm"
+    },
+    "fh-3": {
+      "1": "At the start of the scenario increase your maximum hit point value by 1.",
+      ".": "Traveling Cloak"
+    },
+    "fh-4": {
+      "1": "Bei den nächsten 2 Angriffen, die dich anvisieren, erhält der Angreifer Nachteil.",
+      ".": "Grobe Fellrüstung"
+    },
+    "fh-5": {
+      "1": "Füge bei deiner Bewegungsfertigkeit +1 %game.action.move% hinzu.",
+      ".": "Grobe Stiefel"
+    },
+    "fh-6": {
+      "1": "Erhalte beim Erbeuten am Zugende die Beute eines angrenzendes Feldes statt des Feldes, auf dem du stehst.",
+      ".": "Bequeme Latschen"
+    },
+    "fh-7": {
+      "1": "Füge während deines Zugs einem deiner Fernangriffe +1 %game.action.range% hinzu.",
+      ".": "Grober Bogen"
+    },
+    "fh-8": {
+      "1": "Während deines Zugs kannst du mit einer Einzelziel-Nahkampf-Angriffsfertigkeit einen Gegner im Umkreis von 2 Feldern anvisieren.",
+      ".": "Grober Speer"
+    },
+    "fh-9": {
+      "1": "Gewähre während deines Zugs einem Verbündeten in %game.action.range:2%:",
+      ".": "Schutzzepter"
+    },
+    "fh-10": {
+      "1": "Wenn dir ein Gegner einen negativen Zustand geben würde, wird der Zustand verhindert.",
+      ".": "Grober Schild"
+    },
+    "fh-11": {
+      "1": "Entferne zu Beginn des Szenarios eine %game.attackmodifier.minus1% Karte aus deinem Angriffsmodifikator-Deck.",
+      ".": "Einfaches Amulett"
+    },
+    "fh-12": {
+      "1": "Wenn du durch einen Angriff %game.damage% erleidest, erhältst du für den Angriff %game.action.shield:2%.",
+      ".": "Grobe Kettenrüstung"
+    },
+    "fh-13": {
+      "1": "Nachdem du durch einen Angriff %game.damage% erleidest, führe aus:",
+      ".": "Tanzschuhe"
+    },
+    "fh-14": {
+      "1": "Füge bei deiner Nahkampf-Angriffsfertigkeit einem Angriff +1 %game.action.attack% hinzu.",
+      ".": "Schweres Schwert"
+    },
+    "fh-15": {
+      "1": "Wenn dir ein Gegner einen negativen Zustand geben würde, wird der Zustand verhindert.",
+      ".": "Verstärkter Schild"
+    },
+    "fh-16": {
+      "1": "Gewähre während deines Zugs allen angrenzenden Verbündeten: %game.action.move% 2",
+      ".": "Inspirierender Helm"
+    },
+    "fh-17": {
+      "1": "Bei den nächsten 2 Angriffen, die dich anvisieren, erhält der Angreifer Nachteil.",
+      ".": "Hartlederrüstung"
+    },
+    "fh-18": {
+      "1": "Füge während deines Zugs allen deinen Bewegungsfertigkeiten +1 %game.action.move% hinzu.",
+      ".": "Spröde Stiefel"
+    },
+    "fh-19": {
+      "1": "Füge bei deiner Angriffsfertigkeit allen Angriffen %game.condition.muddle% hinzu.",
+      ".": "Klanghammer"
+    },
+    "fh-20": {
+      "1": "DFüge während deines Zugs allen deinen Fernangriffen +1 %game.action.range% hinzu.",
+      ".": "Getillerter Bogen"
+    },
+    "fh-55": {
+      "1": "Wenn du von einem angrenzenden Gegner angegriffen wirst, erhältst du für den Angriff %game.action,retaliate% 2.",
+      ".": "Stachelstulpe"
+    },
+    "fh-71": {
+      "1": "Führe nach deiner Fertigkeit, mit der du einen Gegner getötet hast, aus:",
+      ".": "Knochenstiefel"
+    },
+    "fh-75": {
+      "1": "Nachdem ein Verbündeter in %game.action.range:2% durch einen Angriff %game.damage% erleidet, entferne alle negativen Zustände von ihm und führe aus:",
+      ".": "Rosenstulpe"
+    },
+    "fh-84": {
+      "1": "%game.card.recover% während deines Zugs eine Stufe-1-Karte von deinem Abwurfstapel.",
+      ".": "Ausdauertrank"
+    },
+    "fh-89": {
+      "1": "Führe während deines Zugs aus: %game.condition.ward% Selbst",
+      ".": "Steinhauttrank"
+    }
+  },
   "treasures": {
     "fh": {
       "12": "Ihr findet die Überreste von Camilla und ihre Gemälde eines majestätischen, gehörnten Wesens.",
