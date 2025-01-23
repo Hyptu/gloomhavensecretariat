@@ -930,6 +930,19 @@
         "3": "Wann immer du eine Aktion mit Verloren-Symbol ausführst, kannst du 1 Karte abwerfen, um 1 Karte höchstens gleicher Stufe von deinem Abwurfstapel %game.card.recover%",
         "4": "Wechsle jede Runde die Form",
         "5": "Verliere jede Runde mindestens eine Fertigkeitskarte"
+      },
+      "flowChartGroup": {
+        "intro": "Prolog",
+        "algox-1": "Algox",
+        "algox-2": "Algox",
+        "algox-3": "Algox",
+        "lurker": "Pirscher",
+        "unfettered": "Entfesselte",
+        "puzzle-book": "Rätselbuch",
+        "personal-quests": "Persönliche Quest",
+        "job-postings": "Auftragsangebot",
+        "other": "Sonstige",
+        "random-scenarios": "Zufallsszenario"
       }
     }
   }
