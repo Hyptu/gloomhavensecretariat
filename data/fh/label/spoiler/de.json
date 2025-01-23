@@ -1,1 +1,11 @@
-
+{
+  "treasures": {
+    "fh": {
+      "12": "Ihr findet die Überreste von Camilla und ihre Gemälde eines majestätischen, gehörnten Wesens.",
+      "51": "Lest %data.section:78.1%",
+      "54": "Schatzkiste? Da war keine Schatzkiste. Vielleicht war das letzte Bier eins zu viel.",
+      "57": "Was ist das? Eine leere Truhe mit einer bleiernen Falltür am Boden? Ihr notiert euch den Ort, damit ihr später mit Gemmes Hilfe zurückkehren könnt.",
+      "62": "Erhalte den Gegenstandsplan Mechanikwürfel %game.itemFh.82%, sobald ihr die andere Hälfte dieses Plans findet."
+    }
+  }
+}
